@@ -1,0 +1,15 @@
+.aula01{
+    background-color: rgb(5, 5, 78);
+    color: aliceblue;
+}
+.centro{
+    text-align: center;
+}
+
+.direita{
+    text-align: right;
+}
+
+.esquerda{
+    text-align: left;
+}
